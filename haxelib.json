@@ -19,6 +19,6 @@
     "random": "1.4.0",
     "minject": "1.3.0",
     "pushstate": "1.1.0",
-    "detox": "1.0.0-rc.9"
+    "detox": "1.0.0-rc.10"
   }
 }
