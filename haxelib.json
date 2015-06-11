@@ -4,7 +4,7 @@
   "tags": ["ufront","web","framework","mvc","js","client","isomorphic"],
   "description": "Ufront running in the Browser - for isomorphic web apps and single page apps.  Please note this haxelib does not contain any source files, but just defines dependencies for creating ufront apps that run client side.",
   "contributors": ["jason"],
-  "releasenote": "Initial release",
+  "releasenote": "Initial release - not stable yet. Please use git versions until a stable release.",
   "version": "0.0.1",
   "url": "https://github.com/ufront/ufront-client",
   "dependencies": {
